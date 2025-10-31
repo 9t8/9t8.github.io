@@ -1,0 +1,3 @@
+[submodule "docs/simple.css"]
+	path = docs/simple.css
+	url = https://github.com/kevquirk/simple.css
